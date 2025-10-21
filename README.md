@@ -2,7 +2,7 @@
 
 
 
-Ce projet consiste en une analyse complète de données multidimensionnelles à travers **l’Analyse en Composantes Principales (ACP)** et l’**Analyse de la Variance (ANOVA)\*\*. L’objectif est de réduire la complexité des données tout en préservant leur structure et leur variabilité, et de réaliser des tests statistiques pertinents sur ces données.
+Ce projet consiste en une analyse complète de données multidimensionnelles à travers **l’Analyse en Composantes Principales (ACP)** et l’**Analyse de la Variance (ANOVA)**. L’objectif est de réduire la complexité des données tout en préservant leur structure et leur variabilité, et de réaliser des tests statistiques pertinents sur ces données.
 
 
 
