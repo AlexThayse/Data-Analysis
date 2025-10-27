@@ -1,26 +1,17 @@
-# Analyse de Données – Réduction de la Dimension et ANOVA
+# Data Analysis – Dimensionality Reduction and ANOVA
 
-
-
-Ce projet consiste en une analyse complète de données multidimensionnelles à travers **l’Analyse en Composantes Principales (ACP)** et l’**Analyse de la Variance (ANOVA)**. L’objectif est de réduire la complexité des données tout en préservant leur structure et leur variabilité, et de réaliser des tests statistiques pertinents sur ces données.
-
-
+This project involves a comprehensive analysis of multidimensional data through **Principal Component Analysis (PCA)** and **Analysis of Variance (ANOVA)**.  
+The goal is to reduce the complexity of the data while preserving its structure and variability, and to perform relevant statistical tests on these data.
 
 ---
 
+## 📂 Project Contents
 
-
-## 📂 Contenu du projet
-
-
-
-- **ACP** : exploration des données, standardisation, réalisation de l’ACP, visualisation et interprétation des résultats.  
-
-- **ANOVA** : analyse à un facteur, à deux facteurs et à contrastes, tests d’hypothèses (normalité, homoscédasticité) et conclusions.
+- **PCA**: data exploration, standardization, PCA implementation, visualization, and interpretation of results.  
+- **ANOVA**: one-way, two-way, and contrast analyses, hypothesis testing (normality, homoscedasticity), and conclusions.
 
 ---
 
-## 👤 Auteur
+## 👤 Authors
 
-Manon Rustin et Alex Thayse
-
+**Manon Rustin** and **Alex Thayse**
